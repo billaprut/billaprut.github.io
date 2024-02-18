@@ -28,7 +28,7 @@ const Head = ({metadata}) => (
         <link rel="canonical" href="https://billaprut.github.io"/>
         <meta name="description" content={metadata.description}/>
         <meta name="keywords" content={config.siteKeywords}/>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-JJBG91P2EL"></script>
+        <script async src=""></script>
         <script>
             {`
               window.dataLayer = window.dataLayer || [];
