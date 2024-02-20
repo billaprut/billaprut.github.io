@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Pruthvi Billa | Information Systems Graduate Student | Data Scientist | ML Engineer | Software Engineer ',
+  siteTitle: 'Pruthvi Billa',
   siteDescription:
     'Pruthvi Billa is a Information Systems Graduate Student at University of Maryland, who loves learning new things.',
   siteKeywords:
@@ -46,7 +46,7 @@ module.exports = {
   colors: {
     green: '#64ffda',
     navy: '#0a192f',
-    darkNavy: '#020c1b',
+    darkNavy: '#020c1b'
   },
 
   srConfig: (delay = 200) => ({
