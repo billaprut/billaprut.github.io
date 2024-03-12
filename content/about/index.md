@@ -7,9 +7,9 @@ skills:
   - Python,R,C++,C,Node.js
   - SQL
   - Big Data Framework
-  - Tableau
+  - Tableau, Power BI
   - QGIS
-  - AWS
+  - AWS, Azure
   - JIRA
   - Git & Jenkins (CI/CD)
 
@@ -24,4 +24,4 @@ Fast-forward to today, and I’ve had the privilege of working at [a multination
 
 I also recently launched a [web application](https://pbilla.pythonanywhere.com/) that predicts the booking rate of Airbnb listings.
 
-Here is a list of the technologies that I'm familiar with!
+Here is a list of few technologies that I'm familiar with!

@@ -1,7 +1,7 @@
 ---
 date: '2022-02-01'
 title: 'Web Manager'
-company: 'University of Maryland Extension'
+company: 'University of Maryland'
 location: 'College Park, MD'
 range: 'February 2023 - Present'
 url: 'https://extension.umd.edu/node/1/'
