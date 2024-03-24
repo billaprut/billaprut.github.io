@@ -6,6 +6,7 @@ buttonText: 'Contact Me'
 ---
 
 Inter-sectional and cross-disciplinary knowledge have become critical of organizational success stories.
-As an AI enthusiast, I bring a rich blend of experience in machine learning, data science, and software engineering. 
-My comprehensive background enables me to bridge the gap between complex data analysis and practical, scalable software solutions. 
-Currently, I’m focused on building accessible, human-centered products using Generative AI.
+I am a passionate, knowledgeable, and supportive team player with experience in data science & analytics, software engineering, and project management. 
+
+With a strong foundation in end-to-end project management, I excel in identifying and implementing areas of improvement within processes to enhance efficiency and outcomes. My expertise extends to building and developing sophisticated code modules, encompassing software engineering, machine learning, and deep learning. My comprehensive background enables me to bridge the gap between complex analysis and practical, scalable software solutions.
+
