@@ -2,14 +2,14 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Project Management
-  - Machine Learning
+  - Programming
+  - Python,C++,C,R,Java
+  - Mainframes,Cobol,JCL
+  - SQL, IMS, DB2, MongoDB
+  - Big Data & AI
   - Data Science
-  - Python,R,C++,C,Node.js
-  - SQL
-  - Big Data Framework
   - Tableau, Power BI
-  - Agile, SDLC, JIRA
+  - SDLC, Agile, JIRA
   - AWS, Azure
   - Git & Jenkins (CI/CD)
 
